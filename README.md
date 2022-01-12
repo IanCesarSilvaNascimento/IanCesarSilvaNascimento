@@ -3,7 +3,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px">, I'm Ian César Silva Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanCesarSilvaNascimento&color=yellow" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning tools for backend develop with balta.io
+- 🌱 I’m currently learning tools for backend develop 
 
 - 🤔 I’m looking for an opportunity
 
