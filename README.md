@@ -3,11 +3,11 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px">, I'm Ian César Silva Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanCesarSilvaNascimento&color=yellow" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning tools for backend develop 
+- 	:rocket:	:hourglass: 	:fire: I’m currently learning tools for backend develop 
 
-- 🤔 I’m looking for an opportunity
+- :pray: I’m looking for an opportunity
 
-- 📫 How to reach me: linkedin.com/in/ian-nascimento-3b7574140
+- :house_with_garden:📫 How to reach me: linkedin.com/in/ian-nascimento-3b7574140
 
 <br><br>
 
