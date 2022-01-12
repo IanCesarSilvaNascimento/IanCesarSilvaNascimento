@@ -7,8 +7,6 @@
 
 - 🤔 I’m looking for an opportunity
 
-- 💬 Ask me about .NET framework 
-
 - 📫 How to reach me: linkedin.com/in/ian-nascimento-3b7574140
 
 <br><br>
