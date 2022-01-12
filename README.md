@@ -5,9 +5,9 @@
 
 - 	:rocket:	:hourglass: 	:fire: I’m currently learning tools for backend develop 
 
-- :pray: I’m looking for an opportunity
+- :pray: :dart: I’m looking for an opportunity
 
-- :house_with_garden How to reach me: linkedin.com/in/ian-nascimento-3b7574140
+- :house_with_garden: How to reach me: linkedin.com/in/ian-nascimento-3b7574140
 
 <br><br>
 
