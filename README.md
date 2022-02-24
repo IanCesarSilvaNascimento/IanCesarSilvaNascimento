@@ -32,8 +32,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCesarSilvaNascimento&layout=compact&theme=vision-friendly-dark" alt="IanCesarSilvaNascimento's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanCesarSilvaNascimento&layout=compact&theme=vision-friendly-dark&hide=python,c"/>
 </p>
+
+
 
 <br><br>
 
