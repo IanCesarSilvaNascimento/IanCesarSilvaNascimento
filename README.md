@@ -1,5 +1,5 @@
 
-<img align="right" height="380em" src="https://raw.githubusercontent.com/gist/IanCesarSilvaNascimento/9634ee94a2a124d80c6094906af5e8a8/raw/ec0d1d37d238f369df22ff46211f3ffe61fdf1bc/githubcar.svg"/>
+
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"> I'm Ian César Silva Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanCesarSilvaNascimento&color=yellow" alt="Profile views" /> </p>
 
