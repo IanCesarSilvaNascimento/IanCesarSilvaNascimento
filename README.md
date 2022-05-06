@@ -3,9 +3,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"> I'm Ian César Silva Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanCesarSilvaNascimento&color=yellow" alt="Profile views" /> </p>
 
-- 	:rocket:	:hourglass: 	:fire: I’m currently learning tools for software development 
-
-- :pray: :dart: I’m looking for an opportunity
+- 	:rocket:	:hourglass: 	:fire: I’m currently .NET developer at LAB3 DVLP 
 
 - :house_with_garden: How to reach me: https://linkedin.com/in/ian-nascimento-3b7574140
 
