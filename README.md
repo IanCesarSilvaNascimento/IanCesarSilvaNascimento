@@ -11,8 +11,15 @@
 
 ##  &nbsp;OS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+
+##  &nbsp;IDE
+
+![Visual Studio](	https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
+
+
+
 
 ## 🛠 &nbsp;Tech Stack
 ![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
